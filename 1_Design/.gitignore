@@ -1,0 +1,9 @@
+# Mac file
+.DS_Store
+
+# Altium project file
+__Previews
+History
+Project Logs for*
+Project Outputs for*
+

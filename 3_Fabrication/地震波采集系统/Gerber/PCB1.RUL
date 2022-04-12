@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: F:\04_study_hardware\earth_hardware_design\TestWave_all_V1\1_Design\PcbDoc\PCB1.PcbDoc
+RuleKind=Clearance|RuleName=Stitching GND|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=KeepOut_Layer|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=microtrip|Scope=Board|Minimum=5.00
