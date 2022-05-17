@@ -234,7 +234,7 @@ void Func_trig(uint8_t* command)
 		gain = 2.048;
 	}
 		
-	uint8_t value = strtol(command + 20, '\0', 10);
+	uint8_t value = strtol(command + 20,'\0', 10);
 	if (strcmp(command + 10, "_defaut") == 0)
 	{
 		for (int i = 0; i != 1024; i++) {
